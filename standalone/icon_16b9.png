@@ -3,8 +3,8 @@
     <name>Your App Name</name>
     <description>Your app description</description>
     <author email="your.email@example.com" href="http://example.com">Your Name</author>
-    <icon src="images/icon.png"/>
-    <tizen:icon src="images/tv_icon.png"/> <!-- Update this line -->
+    <icon src="images/icon.png"/> <!-- Update this line with your new icon -->
+    <tizen:icon src="images/tv_icon.png"/> <!-- Update this line if needed -->
     <content src="index.html"/>
     <access origin="*"/>
     <feature name="http://tizen.org/feature/network.wifi"/>
